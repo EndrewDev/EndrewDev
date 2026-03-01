@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Endrew Silva, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no Juscelino kubitschek, com o curso técnico em informática. Atualmente, estou cursando Desenvolvimento Web Origamid. Vou ser um bom do front-end. Estou muito ansioso para começa aprender engenheria de sotfware. Sou apaixonado por tecnologia.
+Me chamo Endrew Silva, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no Juscelino kubitschek, com o curso técnico em informática e tenho experiência back-end com python django aprendi através mentoria. Atualmente, estou cursando Desenvolvimento Web de Origamid. Vou ser um bom do full stack. Estou muito ansioso para começa aprender engenheria de sotfware. Sou apaixonado por tecnologia.
 
 ---
 
